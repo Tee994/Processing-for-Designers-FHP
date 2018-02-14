@@ -3,4 +3,4 @@ Processing projects as a part of the university course "Processing for Designers
 
 ## Population Data Visualization
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url
+Format: ![Alt Text](url)
