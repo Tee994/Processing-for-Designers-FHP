@@ -3,4 +3,4 @@ Processing projects as a part of the university course "Processing for Designers
 
 ## Population Data Visualization
 
-<img src="your_relative_path_here" width="350"/>
+<img src="https://github.com/Tee994/Processing-for-Designers-FHP/blob/master/map_cities_population.PNG?raw=true" width="350"/>
