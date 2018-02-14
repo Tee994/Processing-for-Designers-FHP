@@ -3,3 +3,4 @@ Processing projects as a part of the university course "Processing for Designers
 
 ## Population Data Visualization
 
+![alt text](Processing-for-Designers-FHP/map_cities_population.PNG)
